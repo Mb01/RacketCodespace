@@ -1,7 +1,7 @@
 {
   "name": "Racket Environment",
   "build": {
-    "dockerfile": "Dockerfile"
+    "dockerfile": "../Dockerfile"
   },
   "settings": {},
   "extensions": [],
