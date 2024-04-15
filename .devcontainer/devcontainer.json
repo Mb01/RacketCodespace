@@ -1,0 +1,9 @@
+{
+  "name": "Racket Environment",
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
+  "settings": {},
+  "extensions": [],
+  "postCreateCommand": "raco pkg install --auto <package-name-if-needed>"
+}
